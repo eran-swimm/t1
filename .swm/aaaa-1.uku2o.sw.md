@@ -2,12 +2,12 @@
 id: uku2o
 name: aaaa 1
 file_version: 1.0.2
-app_version: 0.8.2-0
+app_version: 0.8.4-0
 file_blobs:
   main.txt: 72943a16fb2c8f38f9dde202b7a70ccc19c52f34
 ---
 
-aaa
+aaa bbb
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 main.txt
 ```text
