@@ -2,9 +2,9 @@
 id: xf354
 name: new doc
 file_version: 1.0.2
-app_version: 0.8.4-0
+app_version: 0.8.7-1
 file_blobs:
-  a.py: a5759d69543acdc7207ee7102bc65bbd0617bbce
+  a.py: c6562ded47cd45eb07fff411f9502a8c6e0a2073
 ---
 
 aaa
@@ -17,7 +17,7 @@ aaa
 ⬜ 1      aaa
 ⬜ 2      bbb
 🟩 3      xxx
-🟩 4      yyy
+🟩 4      vvv
 ⬜ 5      eee
 ⬜ 6      
 ```
