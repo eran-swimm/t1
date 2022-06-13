@@ -11,10 +11,19 @@ dict_method_2 = {key:value for key, value in zip(keys_list, values_list)}
 #3- Using the zip function with a loop
 items_tuples = zip(keys_list, values_list) 
 dict_method_3 = {} 
+
+this is a change of the doc
+
+it is very important to read
+
+please read
+
 for key, value in items_tuples: 
     if key in dict_method_3: 
         pass # To avoid repeating keys.
     else: 
         dict_method_3[key] = valu
 
-e
+
+
+this is another line
