@@ -1,9 +1,4 @@
 ---
-id: d5ku6
-name: please review
-file_version: 1.0.2
-app_version: 0.8.9-2
----
 
 please review this
 
