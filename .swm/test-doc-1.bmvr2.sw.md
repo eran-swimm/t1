@@ -1,8 +1,8 @@
 ---
 id: bmvr2
-name: Test doc
+name: Test doc 1
 file_version: 1.0.2
-app_version: 0.8.9-2
+app_version: 0.9.0-0
 file_blobs:
   a.py: c6562ded47cd45eb07fff411f9502a8c6e0a2073
 ---
