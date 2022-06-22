@@ -6,6 +6,7 @@ app_version: 0.9.0-0
 file_blobs:
   main.txt: 72943a16fb2c8f38f9dde202b7a70ccc19c52f34
   snip1.py: 42c488f0b422b1004a50fc360ccb287a4727a8e6
+  tmp.py: 9c9149dbd2d7eed077b359fd17f763529e89402f
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -32,6 +33,25 @@ file_blobs:
 ⬜ 10     
 ⬜ 11     #3- Using the zip function with a loop
 ⬜ 12     items_tuples = zip(keys_list, values_list) 
+```
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 tmp.py
+```python
+⬜ 1      
+⬜ 2      aaa
+⬜ 3      b
+🟩 4      
+🟩 5      
+🟩 6      b
+🟩 7      c
+🟩 8      
+🟩 9      d
+⬜ 10     
+⬜ 11     
+⬜ 12     f
 ```
 
 <br/>
