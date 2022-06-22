@@ -1,6 +1,6 @@
 ---
 id: gyvk8
-name: New Doc
+name: Nested Doc
 file_version: 1.0.2
 app_version: 0.9.0-0
 file_blobs:
