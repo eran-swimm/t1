@@ -2,12 +2,37 @@
 id: fa7ib
 name: hello aaaa bbbb 11111
 file_version: 1.0.2
-app_version: 0.8.7-1
+app_version: 0.9.0-0
+file_blobs:
+  main.txt: 72943a16fb2c8f38f9dde202b7a70ccc19c52f34
+  snip1.py: 42c488f0b422b1004a50fc360ccb287a4727a8e6
 ---
 
-hello
-hello
-hello
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 main.txt
+```text
+🟩 1      aaa
+⬜ 2      
+```
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 snip1.py
+```python
+⬜ 1      keys_list = ['A', 'B', 'C']
+⬜ 2      values_list = ['blue', 'red', 'bold']
+⬜ 3      
+🟩 4      #There are 3 ways to convert these two lists into a dictionary
+🟩 5      #1- Using Python's zip, dict functionz
+🟩 6      dict_method_1 = dict(zip(keys_list, values_list))
+🟩 7      
+🟩 8      #2- Using the zip function with dictionary comprehensions
+🟩 9      dict_method_2 = {key:value for key, value in zip(keys_list, values_list)}
+⬜ 10     
+⬜ 11     #3- Using the zip function with a loop
+⬜ 12     items_tuples = zip(keys_list, values_list) 
+```
 
 <br/>
 
