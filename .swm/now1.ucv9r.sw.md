@@ -2,10 +2,49 @@
 id: ucv9r
 name: now1
 file_version: 1.0.2
-app_version: 0.8.4-0
+app_version: 0.9.0-1
+file_blobs:
+  snip1.py: 42c488f0b422b1004a50fc360ccb287a4727a8e6
 ---
 
 1111111
+
+
+
+
+<br/>
+
+aaa
+
+bbb
+
+# ccc
+
+## dddd
+
+
+
+
+### dddd
+
+# eeee
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 snip1.py
+```python
+⬜ 9      dict_method_2 = {key:value for key, value in zip(keys_list, values_list)}
+⬜ 10     
+⬜ 11     #3- Using the zip function with a loop
+🟩 12     items_tuples = zip(keys_list, values_list) 
+🟩 13     dict_method_3 = {} 
+🟩 14     for key, value in items_tuples: 
+🟩 15         if key in dict_method_3: 
+🟩 16             pass # To avoid repeating keys.
+🟩 17         else: 
+🟩 18             dict_method_3[key] = valu
+⬜ 19     
+⬜ 20     e
+⬜ 21     
+```
 
 <br/>
 
