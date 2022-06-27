@@ -6,8 +6,8 @@ app_version: 0.9.0-1
 ---
 
 <!-- Steps - Do not remove this comment -->
-1. [https://github.com](https://another link)
-2. [https://swimm.io](https://link1)
+1. [gitjub link](https://github.com)
+2. [link to swimm](https://swimm.io)
 3. [vue js](https://vuejs.com)
 
 
