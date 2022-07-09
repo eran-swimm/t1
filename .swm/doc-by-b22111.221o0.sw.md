@@ -2,56 +2,21 @@
 id: 221o0
 name: doc by b22111
 file_version: 1.0.2
-app_version: 0.8.7-1
+app_version: 0.9.1-5
+file_blobs:
+  a.py: c6562ded47cd45eb07fff411f9502a8c6e0a2073
 ---
 
-aaaa
-
-<br/>
-
-bbb
-
-<br/>
-
-cccc
-
-<br/>
-
-dddd
-
-<br/>
-
-eeee
-
-<br/>
-
-fffff
-
-<br/>
-
-ffff
-
-<br/>
-
-dddd  
-ffff  
-fff
-
-<br/>
-
-aaaaa
-
-<br/>
-
-aaa
-
-<br/>
-
-bbb
-
-<br/>
-
-ccc
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 a.py
+```python
+🟩 1      aaa
+🟩 2      bbb
+🟩 3      xxx
+🟩 4      vvv
+🟩 5      eee
+⬜ 6      
+```
 
 <br/>
 
