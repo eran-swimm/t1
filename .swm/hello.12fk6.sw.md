@@ -5,8 +5,9 @@ file_version: 1.0.2
 app_version: 0.9.2-0
 ---
 
-`👤 Eran Keydar[ZMqaiF]` and Wrote this togethe
+`👤 Eran Keydar[ZMqaiF]` and `👤 b22[Ch9Gc]` Wrote this together.
 
+Can you say `👤 b22[Ch9Gc]`
 
 
 
