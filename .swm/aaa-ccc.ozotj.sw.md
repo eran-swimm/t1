@@ -2,7 +2,9 @@
 id: ozotj
 name: aaa ccc
 file_version: 1.0.2
-app_version: 0.9.1-5
+app_version: 0.9.3-1
+file_blobs:
+  very-long-file-name-with-long-name-again.txt: 1802a7474429e8c0f81d2a36bed657d4b29ed23c
 ---
 
 cccc
@@ -14,6 +16,16 @@ zzzzz
 
 
 
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 very-long-file-name-with-long-name-again.txt
+```text
+🟩 1      aaa
+🟩 2      bbb
+🟩 3      ccc
+🟩 4      
+```
 
 <br/>
 
