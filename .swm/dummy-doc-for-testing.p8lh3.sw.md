@@ -2,10 +2,26 @@
 id: p8lh3
 name: dummy doc for testing
 file_version: 1.0.2
-app_version: 0.9.2-0
+app_version: 0.9.3-2
+file_blobs:
+  main.txt: 72943a16fb2c8f38f9dde202b7a70ccc19c52f34
 ---
 
 This is the content of the doc
+
+`👤 Eran Keydar[ZMqaiF]` `👤 102[48Ezp]`
+
+
+
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 main.txt
+```text
+🟩 1      aaa
+⬜ 2      
+```
 
 <br/>
 
