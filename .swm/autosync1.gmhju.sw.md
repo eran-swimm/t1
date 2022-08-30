@@ -6,6 +6,13 @@ app_version: 0.9.5-0
 file_blobs:
   folder1/folder2/file.py: 955bebf3a677d322f2cc2b8752ecb14056f5b220
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
+other_file_blobs:
+  - repo1:
+      aafolder1/folder2/file.py: 955bebf3a677d322f2cc2b8752ecb14056f5b220
+      aamul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
+  - repo2:
+      bbfolder1/folder2/file.py: 955bebf3a677d322f2cc2b8752ecb14056f5b220
+      bmul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 ---
 
 aaaa
