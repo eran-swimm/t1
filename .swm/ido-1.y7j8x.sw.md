@@ -2,10 +2,29 @@
 id: y7j8x
 name: Ido 1
 file_version: 1.0.2
-app_version: 0.9.4-6
+app_version: 0.9.5-0
+file_blobs:
+  a---b.txt: fc13a3594191dc63427b4e9d16a12ad47eae293f
 ---
 
 this is doc
+
+
+
+
+<br/>
+
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 a---b.txt
+```text
+🟩 1      aaa
+🟩 2      bbb
+🟩 3      ccc
+⬜ 4      
+⬜ 5      
+```
 
 <br/>
 
