@@ -24,6 +24,8 @@ cccc
 
 dddd
 
+'' aa '' bb '' cc''
+
 {aaa}
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 folder1/folder2/file.py
