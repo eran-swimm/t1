@@ -5,6 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.5-5
 file_blobs:
   folder1/folder2/file.py: 955bebf3a677d322f2cc2b8752ecb14056f5b220
+  mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 ---
 
 # Local snippet
@@ -24,6 +25,26 @@ this is snippet for the current repo
 ⬜ 2      bb
 🟩 3      cc
 ⬜ 4      dd
+⬜ 5      
+```
+
+<br/>
+
+# cross repo snippet
+
+
+
+
+<br/>
+
+this is snippet from chat example
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 mul1.py
+```python
+⬜ 1      def mul1(a, b):
+⬜ 2          print(f'This is mull of {a} and {b}')
+🟩 3          return a * b
+⬜ 4      
 ⬜ 5      
 ```
 
