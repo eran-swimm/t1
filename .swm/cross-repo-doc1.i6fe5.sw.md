@@ -23,7 +23,6 @@ This is local snippet
 
 this is snippet for the current repo
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 folder1/folder2/file.py
 ```python
 ⬜ 1      aa
@@ -44,6 +43,7 @@ this is snippet for the current repo
 
 this is from chat example
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 mysite/routing.py
 ```python
 ⬜ 4      
