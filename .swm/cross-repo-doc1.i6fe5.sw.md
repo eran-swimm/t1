@@ -37,15 +37,19 @@ this is snippet for the current repo
 
 <br/>
 
-this is snippet from chat example
+this is from chat example
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 mul1.py
+### 📄 mysite/routing.py
 ```python
-⬜ 1      def mul1(a, b):
-⬜ 2          print(f'This is mull of {a} and {b}')
-🟩 3          return a * b
 ⬜ 4      
-⬜ 5      
+⬜ 5      application = ProtocolTypeRouter({
+⬜ 6          # (http->django views is added by default)
+🟩 7          'websocket': AuthMiddlewareStack(
+🟩 8              URLRouter(
+🟩 9                  chat.routing.websocket_urlpatterns
+🟩 10             )
+🟩 11         ),
+⬜ 12     })
 ```
 
 <br/>
