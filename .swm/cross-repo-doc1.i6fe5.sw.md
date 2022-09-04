@@ -66,20 +66,19 @@ this is from chat example
 
 <br/>
 
-this is from chat example
+this is from other repo
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
-### 📄 mysite/routing.py
+<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBdGVzdC13aXRoLXN3aW1tJTNBJTNBZWtleWRhcg==:: -->
+### 📄 stam.py
 ```python
-⬜ 4      
-⬜ 5      application = ProtocolTypeRouter({
-⬜ 6          # (http->django views is added by default)
-🟩 7          'websocket': AuthMiddlewareStack(
-🟩 8              URLRouter(
-🟩 9                  chat.routing.websocket_urlpatterns
-🟩 10             )
-🟩 11         ),
-⬜ 12     })
+⬜ 1      # this is the definiton of stam function
+⬜ 2      
+🟩 3      def stam(a1, a2):
+🟩 4        print(f"In stam. got a1 = {a1} a2={a2}")
+🟩 5        return foo(a1) + foo(a2)
+⬜ 6      
+⬜ 7      def foo(x):
+⬜ 8        # this is foo
 ```
 
 <br/>
