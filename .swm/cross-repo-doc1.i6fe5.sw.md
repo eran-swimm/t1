@@ -5,7 +5,8 @@ file_version: 1.0.2
 app_version: 0.9.5-5
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
-  mysite/routing.py: ""
+cross_repo_file_blobs:
+  Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=: folder1/folder2/file.py: 4f954484ddc671c3597d903a1172aa99e378492a
 ---
 
 # Local snippet!
@@ -43,6 +44,7 @@ this is snippet for the current repo
 
 this is from chat example
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 mysite/routing.py
 ```python
 ⬜ 4      
