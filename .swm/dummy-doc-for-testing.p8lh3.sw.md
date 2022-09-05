@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.5-5
 file_blobs:
   folder2/main.txt: 72943a16fb2c8f38f9dde202b7a70ccc19c52f34
-  mul1.py: b21208bc533e894acdf17ccc7e127c1cb243cbb1
+  newmul1.py: b21208bc533e894acdf17ccc7e127c1cb243cbb1
 ---
 
 # text + mention
@@ -40,7 +40,7 @@ This is the content of the doc
 
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 mul1.py
+### 📄 newmul1.py
 ```python
 🟩 1      def mul11(a, b):
 🟩 2          print(f'This is mull of {a} and {b}')
