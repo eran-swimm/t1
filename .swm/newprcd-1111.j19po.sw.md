@@ -4,14 +4,14 @@ name: Newprcd 1111
 file_version: 1.0.2
 app_version: 0.9.5-5
 file_blobs:
-  mul1.py: b21208bc533e894acdf17ccc7e127c1cb243cbb1
+  newmul1.py: b21208bc533e894acdf17ccc7e127c1cb243cbb1
   very-long-file-name-with-long-name-again.txt: 1b41905a395b3bdfc0631d3e76c569a1f8fd6c47
 ---
 
 
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 mul1.py
+### 📄 newmul1.py
 ```python
 🟩 1      def mul11(a, b):
 🟩 2          print(f'This is mull of {a} and {b}')
