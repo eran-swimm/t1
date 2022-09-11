@@ -2,10 +2,12 @@
 id: yroq1
 name: aaaa
 file_version: 1.0.2
-app_version: 0.9.4-6
+app_version: 0.9.6-0
 ---
 
-aaaaaaa `👤 Eran Keydar[ZMqaiF]` `👤 102[48Ezp]`
+aaaaaaa [[sym-mention:(67897261-9404-4586-a17f-164868470c96|ZMqaiF)Eran Keydar]] [[sym-mention:(f0cb0dc6-d03c-455a-aeec-bd794e00e480|48Ezp)102]]
+
+`📄 folder2/main.txt` `📄 folder1/folder2/file.py` `📄 folder1/folder2`
 
 
 
