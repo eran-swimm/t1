@@ -12,10 +12,11 @@ kk
 ll
 mm
 nn
-oo
-pp
-qq
-rr
+11
+22
+33
+44
+55
 ss
 tt
 uu
