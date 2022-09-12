@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.6-0
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
-  mul1.py: b15354fbc63f6725de7a90ba440062768442c47f
+  mul1.py: 14098f1a2821650fbc9405794dff2d8b3fbd1ae6
 ---
 
 aaaa
@@ -52,7 +52,7 @@ dddd
 ### 📄 mul1.py
 ```python
 🟩 1      def mul1(a, b):
-🟩 2          print(f'This is mull of {a} ADd {b}')
+🟩 2          print(f'This is mull of {a} or {b}')
 🟩 3          return a * b
 ⬜ 4      
 ```
@@ -69,7 +69,7 @@ def mul1(a, b):
 
 <span id="f-Z2hGETg">mull</span>[^](#Z2hGETg) - "mul1.py" L2
 ```python
-    print(f'This is mull of {a} ADd {b}')
+    print(f'This is mull of {a} or {b}')
 ```
 
 <br/>
