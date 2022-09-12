@@ -2,10 +2,10 @@
 id: gmhju
 name: autosync1111
 file_version: 1.0.2
-app_version: 0.9.5-5
+app_version: 0.9.6-0
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
-  mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
+  mul1.py: b15354fbc63f6725de7a90ba440062768442c47f
 ---
 
 aaaa
@@ -52,10 +52,9 @@ dddd
 ### 📄 mul1.py
 ```python
 🟩 1      def mul1(a, b):
-🟩 2          print(f'This is mull of {a} and {b}')
+🟩 2          print(f'This is mull of {a} ADd {b}')
 🟩 3          return a * b
 ⬜ 4      
-⬜ 5      
 ```
 
 <br/>
@@ -70,7 +69,7 @@ def mul1(a, b):
 
 <span id="f-Z2hGETg">mull</span>[^](#Z2hGETg) - "mul1.py" L2
 ```python
-    print(f'This is mull of {a} and {b}')
+    print(f'This is mull of {a} ADd {b}')
 ```
 
 <br/>
