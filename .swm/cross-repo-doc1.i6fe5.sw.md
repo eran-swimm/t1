@@ -2,12 +2,15 @@
 id: i6fe5
 name: Cross Repo Doc1
 file_version: 1.0.2
-app_version: 0.9.5-5
+app_version: 0.9.6-0
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
+  mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 cross_repo_file_blobs:
-  Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=: 
-    folder1/folder2/file.py: 4f954484ddc671c3597d903a1172aa99e378492a
+  Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
+    mysite/routing.py: 4f954484ddc671c3597d903a1172aa99e378492a
+  Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:
+    scripts/run_test.py: fab4cb3f459e47cfb7de123fa69a5aa24c32a083
 ---
 
 # Local snippet!
@@ -57,6 +60,41 @@ this is from chat example
 🟩 10             )
 🟩 11         ),
 ⬜ 12     })
+```
+
+<br/>
+
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 mul1.py
+```python
+🟩 1      def mul1(a, b):
+🟩 2          print(f'This is mull of {a} and {b}')
+🟩 3          return a * b
+⬜ 4      
+⬜ 5      
+```
+
+<br/>
+
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:: -->
+### 📄 scripts/run_test.py
+```python
+⬜ 4      import posixpath
+⬜ 5      import uuid
+⬜ 6      
+🟩 7      def url(p):
+🟩 8          return posixpath.join('http://localhost:8000', p.rstrip('/'))
+🟩 9      
+🟩 10     def get(p):
+🟩 11         return call('get', p).json()
+⬜ 12     
+⬜ 13     def call(verb, p, exp_status=None, **kwargs):
+⬜ 14         resp = getattr(requests, verb)(url(p), **kwargs)
 ```
 
 <br/>
