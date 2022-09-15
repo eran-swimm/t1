@@ -8,7 +8,7 @@ file_blobs:
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
-    mysite/routing.py: 4f954484ddc671c3597d903a1172aa99e378492a
+    mysite/routing.py: e79288e782d23e2e631d65b7c152252d2acbc1bb
   Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:
     scripts/run_test.py: fab4cb3f459e47cfb7de123fa69a5aa24c32a083
 ---
@@ -51,15 +51,15 @@ this is from chat example
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 mysite/routing.py
 ```python
+⬜ 2      from channels.routing import ProtocolTypeRouter, URLRouter
+⬜ 3      import chat.routing
 ⬜ 4      
-⬜ 5      application = ProtocolTypeRouter({
-⬜ 6          # (http->django views is added by default)
-🟩 7          'websocket': AuthMiddlewareStack(
-🟩 8              URLRouter(
-🟩 9                  chat.routing.websocket_urlpatterns
-🟩 10             )
-🟩 11         ),
-⬜ 12     })
+🟩 5      application = ProtocolTypeRouter({
+🟩 6          # (http->django views is added by default)
+🟩 7      aaa    
+🟩 8      ),
+⬜ 9      })
+⬜ 10     
 ```
 
 <br/>
