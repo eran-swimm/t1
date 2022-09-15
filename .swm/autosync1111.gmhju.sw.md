@@ -2,9 +2,9 @@
 id: gmhju
 name: autosync1111
 file_version: 1.0.2
-app_version: 0.9.5-5
+app_version: 0.9.6-0
 file_blobs:
-  folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
+  folder1/folder2/file.py: cfe3d84743f3f59b604a8a7904aa132adf6b1eef
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 ---
 
@@ -37,10 +37,10 @@ dddd
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 folder1/folder2/file.py
 ```python
-🟩 1      aa
-🟩 2      bb
-🟩 3      cc
-🟩 4      dd
+🟩 1      11
+🟩 2      22
+🟩 3      33
+🟩 4      44
 ⬜ 5      ee
 ```
 
