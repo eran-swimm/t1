@@ -25,6 +25,8 @@ This is local snippet aaa
 this is snippet for the current repo bbb
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 folder1/folder2/file.py
+<!-- collapsed -->
+
 ```python
 ⬜ 5      ee
 ⬜ 6      ff
@@ -50,6 +52,8 @@ this is from chat exampleaaa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 mysite/routing.py
+<!-- collapsed -->
+
 ```python
 ⬜ 2      from channels.routing import ProtocolTypeRouter, URLRouter
 ⬜ 3      import chat.routing
@@ -70,6 +74,8 @@ this is from chat exampleaaa
 aa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 mul1.py
+<!-- collapsed -->
+
 ```python
 🟩 1      def mul1(a, b):
 🟩 2          print(f'This is mull of {a} and {b}')
@@ -85,6 +91,8 @@ aa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:: -->
 ### 📄 scripts/run_test.py
+<!-- collapsed -->
+
 ```python
 ⬜ 4      import posixpath
 ⬜ 5      import uuid
