@@ -2,15 +2,15 @@
 id: i6fe5
 name: Cross Repo Doc1
 file_version: 1.0.2
-app_version: 0.9.6-0
+app_version: 0.9.6-1
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
-    mysite/routing.py: e79288e782d23e2e631d65b7c152252d2acbc1bb
+    mysite/routing.py: 79e4f6acc6b9f984e0b9ad643f1506335ee676ed
   Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:
-    scripts/run_test.py: fab4cb3f459e47cfb7de123fa69a5aa24c32a083
+    scripts/run_test.py: ""
 ---
 
 # Local snippet!
@@ -22,7 +22,7 @@ This is local snippet
 
 <br/>
 
-this is snippet for the current repo
+this is snippet for the current repo bbb
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 folder1/folder2/file.py
 ```python
@@ -46,7 +46,7 @@ this is snippet for the current repo
 
 <br/>
 
-this is from chat example
+this is from chat exampleaaa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 mysite/routing.py
@@ -56,16 +56,18 @@ this is from chat example
 ⬜ 4      
 🟩 5      application = ProtocolTypeRouter({
 🟩 6          # (http->django views is added by default)
-🟩 7      aaa    
-🟩 8      ),
-⬜ 9      })
-⬜ 10     
+🟩 7          'websocket': AuthMiddlewareStack(
+🟩 8              URLRouter(
+🟩 9                  chat.routing.websocket_urlpatterns
+🟩 10             )
+🟩 11         ),
+⬜ 12     })
+⬜ 13     
 ```
 
 <br/>
 
-
-
+aa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 mul1.py
 ```python

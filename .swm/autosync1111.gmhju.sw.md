@@ -2,7 +2,7 @@
 id: gmhju
 name: autosync1111
 file_version: 1.0.2
-app_version: 0.9.5-5
+app_version: 0.9.6-1
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
