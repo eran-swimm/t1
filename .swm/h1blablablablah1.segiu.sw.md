@@ -1,6 +1,6 @@
 ---
 id: segiu
-name: <script>alert(1)</script>
+name: <h1>blablablabla</h1>
 file_version: 1.0.2
 app_version: 0.9.6-1
 ---
