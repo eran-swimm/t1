@@ -1,8 +1,8 @@
 ---
 id: segiu
-name: <img src=x onerror="alert(\'XSS Attack\')">
+name: <script>alert(1)</script>
 file_version: 1.0.2
-app_version: 0.8.8-0
+app_version: 0.9.6-1
 ---
 
 aaa
