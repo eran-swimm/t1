@@ -8,6 +8,8 @@ file_blobs:
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 ---
 
+<h1>hello</h1><h2>h2</h2>
+
 # text + mention
 
 This is the content of the doc
@@ -15,8 +17,6 @@ This is the content of the doc
 [[sym-mention:(ab2f2482-e9cb-43c7-841e-d4c3481c130f|ZMqaiF)Eran Keydar]] [[sym-mention:(74efc2f5-465d-4db2-8460-013cf1130646|48Ezp)102]]
 
 # snippet
-
-<h1>hello</h1>
 
 <br/>
 
