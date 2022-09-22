@@ -2,7 +2,7 @@
 id: p8lh3
 name: dummy doc for testing
 file_version: 1.0.2
-app_version: 0.9.5-0
+app_version: 0.9.6-1
 file_blobs:
   folder2/main.txt: 72943a16fb2c8f38f9dde202b7a70ccc19c52f34
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
@@ -12,9 +12,11 @@ file_blobs:
 
 This is the content of the doc
 
-`👤 Eran Keydar[ZMqaiF]` `👤 102[48Ezp]`
+[[sym-mention:(ab2f2482-e9cb-43c7-841e-d4c3481c130f|ZMqaiF)Eran Keydar]] [[sym-mention:(74efc2f5-465d-4db2-8460-013cf1130646|48Ezp)102]]
 
 # snippet
+
+<h1>hello</h1>
 
 <br/>
 
