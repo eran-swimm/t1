@@ -2,10 +2,14 @@
 id: qh4jg
 name: new doc
 file_version: 1.0.2
-app_version: 0.8.8-0
+app_version: 0.9.7-0
 ---
 
 aaaa
+
+<br/>
+
+<div align="center"><img src="https://media0.giphy.com/media/3oNMQtqpnse0dbFe06/giphy.gif?cid=d56c4a8brs7vhvmb1mjvdam8xsxu5404z4w8jksvm4ymmrwy&rid=giphy.gif&ct=g" style="width:'50%'"/></div>
 
 <br/>
 
