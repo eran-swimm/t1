@@ -2,15 +2,18 @@
 id: 9ogem
 name: doc
 file_version: 1.0.2
-app_version: 0.9.3-1
+app_version: 0.9.8-0
 ---
 
 # P1
 
 this is text
 
+<br/>
 
+[<--VIDEO-->](https://www.youtube.com/watch?v=GGo3MVBFr1A)
 
+<br/>
 
 \# P2
 
@@ -20,7 +23,7 @@ this is another text
 
 more and more
 
-`👤 Eran Keydar[ZMqaiF]` `👤 102[48Ezp]`
+[[sym-mention:(bef5a420-cb55-4bf8-8e0d-1260219b5469|ZMqaiF)Eran Keydar]] [[sym-mention:(d20d46fb-8785-4b0e-91d9-87c4ac561544|48Ezp)102]]
 
 
 
