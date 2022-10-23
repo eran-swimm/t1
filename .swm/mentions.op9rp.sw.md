@@ -5,22 +5,15 @@ file_version: 1.0.2
 app_version: 0.9.8-0
 ---
 
-[[sym-mention:(c8914c9c-ca1e-4401-96aa-31b7a8a8a476|2dDexy)<h1>Hello</h1>]]
-
-[[sym-mention:(17ecfdcc-7b52-47e6-b297-e05709285808|ZMqaiF)Tal <name></name>]]
-
 ```
 <name>
 ```
 
-```
-```
-
 <br/>
 
-|<name>|<br>|
-|------|----|
-|<br>  |<br>|
+|<name>   |<hello>   |
+|---------|----------|
+|<script >|<b>aaa</b>|
 
 <br/>
 
