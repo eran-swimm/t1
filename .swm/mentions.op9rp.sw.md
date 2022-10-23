@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.9.8-0
 ---
 
-[[sym-mention:(39638551-64c7-4487-8de4-260007725b55|ZMqaiF)Tal Cohen]]
+[[sym-mention:(9ae4181b-06cf-4eb8-900d-7cd21924c73c|ZMqaiF)Tal <name></name>]]
 
 [[sym-mention:(6d5d8c44-19c3-4470-8fe7-9089b597e723|1qTCsp)Daniel]]
 
