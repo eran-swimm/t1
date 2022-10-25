@@ -13,6 +13,10 @@ app_version: 0.9.8-0
 
 [pp1/doc with test](http://localhost:5000/repos/Z2l0aHViJTNBJTNBcHAxJTNBJTNBZXJhbi1zd2ltbQ==/docs/evrdf)
 
+# Dead link
+
+[aa aa](aa-aa.8gq4m.sw.md)
+
 # draft
 
 [draft for link](draft-for-link.8h83i.sw.md)
@@ -24,7 +28,6 @@ app_version: 0.9.8-0
 # draft playlist
 
 [draft playlist](draft-playlist.ah02j.pl.sw.md)
-
 
 
 
