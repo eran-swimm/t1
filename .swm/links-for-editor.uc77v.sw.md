@@ -11,7 +11,7 @@ app_version: 0.9.9-2
 
 # link to deleted doc
 
-[aa aa](aa-aa.8gq4m.sw.md)
+[aa bbb cccc](aa-bbb-cccc.jpp5u.sw.md)
 
 # link to playlist
 
@@ -20,6 +20,10 @@ app_version: 0.9.9-2
 # link to doc in other repo
 
 [chat-example/my title](http://localhost:5000/repos/Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=/docs/96def)
+
+# link to deleted doc in other repo
+
+[chat-example/Deleted doc](http://localhost:5000/repos/Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=/docs/vfsko)
 
 # link to playlist in other repo
 
