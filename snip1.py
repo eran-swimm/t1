@@ -1,5 +1,5 @@
 keys_list = ['A', 'B', 'C']
-values_list = ['blue', 'red', 'bold']
+
 
 #There are 3 ways to convert these two lists into a dictionary
 #1- Using Python's zip, dict functionz
