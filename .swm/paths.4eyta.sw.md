@@ -7,7 +7,7 @@ app_version: 0.9.9-6
 
 # path to file
 
-`📄 folder2/main.txt`
+`📄 folder2/maini1.txt`
 
 # path to folder
 
