@@ -2,22 +2,21 @@
 id: i6fe5
 name: Cross Repo Doc1
 file_version: 1.0.2
-app_version: 0.9.9-7
+app_version: 0.10.1-2
 file_blobs:
   folder1/folder2/file.py: 532974956797b93122f9acf323b26ec8fb7d841a
   mul1.py: 35c03fa102c3d7d35112eb4b6d08784d13d1793a
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
     mysite/routing.py: a83ebf83710420c41a3e50d6eb8192985f4d6694
-  Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:
-    scripts/run_test.py: ""
+  Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=: {}
 ---
 
 # Local snippet!
 
 This is local snippet
 
-aaaaaa
+aaaaaa aaaa
 
 <br/>
 
@@ -40,9 +39,6 @@ this is snippet for the current repo
 
 # cross repo snippet
 
-
-
-
 <br/>
 
 this is from chat example
@@ -64,8 +60,7 @@ this is from chat example
 
 <br/>
 
-
-
+<br/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 mul1.py
 ```python
@@ -78,8 +73,7 @@ this is from chat example
 
 <br/>
 
-
-
+<br/>
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBc3Rhci1wcm9qMSUzQSUzQWVrZXlkYXI=:: -->
 ### 📄 scripts/run_test.py
