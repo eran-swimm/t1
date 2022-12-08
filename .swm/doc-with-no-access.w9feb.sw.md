@@ -7,14 +7,14 @@ file_blobs:
   mul1.py: dad10b8961ff5f2ec2470a71b242ed707a551644
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy:
-    .gitignore: 67045665db202cf951f839a5f3e73efdcfd45021
+    .gitignore: ""
 ---
 
 <br/>
 
 <br/>
 
-<br/>
+aaaa
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 mul1.py
 ```python
