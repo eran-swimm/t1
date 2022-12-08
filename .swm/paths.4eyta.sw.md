@@ -47,7 +47,7 @@ cross_repo_names:
 
 # path to deleted
 
-`📄(demo1-md1) a.py`
+`📄(demo1-md1) bbb.py`
 
 <br/>
 
