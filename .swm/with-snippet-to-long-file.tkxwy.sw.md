@@ -2,9 +2,9 @@
 id: tkxwy
 name: with snippet to long file
 file_version: 1.0.2
-app_version: 0.9.9-0
+app_version: 0.10.1-2
 file_blobs:
-  long_file.txt: ff32bca9041a6efd642eb077f25ac0e5f1ca32c7
+  long_file.txt: beca00d1b61c78ee62dda76b9ae59af0ff65d655
 ---
 
 link to line 280-289
@@ -18,7 +18,7 @@ link to line 280-289
 🟩 281    line 281
 🟩 282    line 282
 🟩 283    line 283
-🟩 284    line 284
+🟩 284    Line 284
 🟩 285    line 285
 🟩 286    line 286
 🟩 287    line 287

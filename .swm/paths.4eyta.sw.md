@@ -2,12 +2,12 @@
 id: 4eyta
 name: paths
 file_version: 1.0.2
-app_version: 0.9.9-6
+app_version: 0.10.1-2
 ---
 
 # path to file
 
-`📄 folder2/maini1.txt`
+`📄 folder2/main.txt`
 
 # path to folder
 
