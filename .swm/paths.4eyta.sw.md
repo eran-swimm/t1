@@ -3,6 +3,9 @@ id: 4eyta
 name: paths
 file_version: 1.0.2
 app_version: 0.10.1-2
+cross_repo_names:
+  repo-Z2l0aHViJTNBJTNBdDElM0ElM0FlcmFuLXN3aW1t: Z2l0aHViJTNBJTNBdDElM0ElM0FlcmFuLXN3aW1t
+  repo-Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
 ---
 
 # path to file
@@ -23,11 +26,9 @@ app_version: 0.10.1-2
 
 # Cross repo path to file
 
-`📄 main.ts`
+`📄(repo-Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=) manage.py`
 
 # Cross repo path to folder
-
-`📄 chat/templates/chat`
 
 <br/>
 
