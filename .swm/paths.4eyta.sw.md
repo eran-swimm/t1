@@ -8,7 +8,6 @@ cross_repo_names:
   webserver1: Z2l0aHViJTNBJTNBd2Vic2VydmVyMSUzQSUzQWVyYW4tc3dpbW0=
   chat-example: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
   Unknown repo: Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy
-  demo1-md1: Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==
 ---
 
 # path to file
@@ -47,7 +46,7 @@ cross_repo_names:
 
 # path to deleted
 
-`📄(demo1-md1) README.md`
+`📄(webserver1) README.md`
 
 <br/>
 
