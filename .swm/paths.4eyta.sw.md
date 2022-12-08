@@ -7,6 +7,7 @@ cross_repo_names:
   t1: Z2l0aHViJTNBJTNBdDElM0ElM0FlcmFuLXN3aW1t
   webserver1: Z2l0aHViJTNBJTNBd2Vic2VydmVyMSUzQSUzQWVyYW4tc3dpbW0=
   chat-example: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
+  demo1-md1: Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==
 ---
 
 # path to file
@@ -43,7 +44,7 @@ cross_repo_names:
 
 # path to deleted
 
-<br/>
+`📄(demo1-md1) bbb.py`
 
 <br/>
 
