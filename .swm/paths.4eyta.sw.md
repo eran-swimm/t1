@@ -41,11 +41,9 @@ cross_repo_names:
 
 # No access path
 
-<br/>
-
 # path to deleted
 
-`📄(webserver1) README.md`
+<br/>
 
 <br/>
 
