@@ -4,30 +4,8 @@ name: snippets
 file_version: 1.0.2
 app_version: 0.10.1-2
 file_blobs:
-  snip1.py: 2e76cca68daeeb93fd78bf5e45c1f92aac11acdb
   folder1/folder3.txt/file1.py: ad074b05a6ed0b1b8ea101b3f68d9927c93e9d61
 ---
-
-<br/>
-
-<br/>
-
-<br/>
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 snip1.py
-```python
-⬜ 11     #3- Using the zip function with a loop
-⬜ 12     items_tuples = zip(keys_list, values_list) 
-⬜ 13     # the line was removed
-🟩 14     for key, value in items_tuples: 
-🟩 15         if key in dict_method_3: 
-🟩 16             pass # To avoid repeating keys.
-🟩 17         else: 
-🟩 18             dict_method_3[key] = valu
-⬜ 19     
-⬜ 20     e
-⬜ 21     
-```
 
 <br/>
 
