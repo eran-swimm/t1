@@ -1,6 +1,6 @@
 ---
 id: nhjb3
-name: aaa
+name: one path
 file_version: 1.0.2
 app_version: 0.10.1-2
 cross_repo_names:
@@ -8,8 +8,6 @@ cross_repo_names:
 ---
 
 `📄(chat-example) users/migrations/0001_initial.py`
-
-<br/>
 
 <br/>
 
