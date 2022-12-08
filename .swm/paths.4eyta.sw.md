@@ -7,6 +7,7 @@ cross_repo_names:
   t1: Z2l0aHViJTNBJTNBdDElM0ElM0FlcmFuLXN3aW1t
   webserver1: Z2l0aHViJTNBJTNBd2Vic2VydmVyMSUzQSUzQWVyYW4tc3dpbW0=
   chat-example: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
+  azdev-ex: Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy
   demo1-md1: Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==
 ---
 
@@ -40,9 +41,9 @@ cross_repo_names:
 
 `📄(chat-example) users/migrations`
 
-# No access path
+# No access path 111
 
-<br/>
+`📄(azdev-ex) dummy.py`
 
 # path to deleted
 
