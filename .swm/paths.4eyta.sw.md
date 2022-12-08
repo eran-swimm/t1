@@ -6,6 +6,7 @@ app_version: 0.10.1-2
 cross_repo_names:
   t1: Z2l0aHViJTNBJTNBdDElM0ElM0FlcmFuLXN3aW1t
   webserver1: Z2l0aHViJTNBJTNBd2Vic2VydmVyMSUzQSUzQWVyYW4tc3dpbW0=
+  chat-example: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
 ---
 
 # path to file
@@ -29,6 +30,12 @@ cross_repo_names:
 `📄(webserver1) main.ts`
 
 `📄(webserver1) README.md`
+
+`📄(webserver1) tsconfig.json`
+
+`📄(webserver1) package.json`
+
+`📄(chat-example) users/migrations`
 
 # Cross repo path to folder
 
