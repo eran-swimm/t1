@@ -35,9 +35,11 @@ cross_repo_names:
 
 `📄(webserver1) package.json`
 
-`📄(chat-example) users/migrations`
+<br/>
 
 # Cross repo path to folder
+
+`📄(chat-example) users/migrations`
 
 <br/>
 
