@@ -1,7 +1,7 @@
 ---
 id: m6bwn
 name: tokens
-file_version: 1.0.3
+file_version: 1.0.2
 app_version: 0.10.1-2
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
@@ -12,7 +12,7 @@ cross_repo_file_blobs:
 
 <br/>
 
-`ProtocolTypeRouter`[<sup id="Z4PTxu">↓</sup>](#f-Z4PTxu)
+`ProtocolTypeRouter`[<sup id="Z4PTxu">↓</sup>](#f-Z4PTxu) \`Auth
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 mysite/routing.py
