@@ -10,7 +10,7 @@ template <typename T> T myMax(T x, T y)
 
 int main()
 {
-	coui << myMax<int>(3, 7) << endl; // Call myMax for int
+	stdout( myMax ); 
 	cout << myMax<double>(3.0, 7.0)
 		<< endl; // call myMax for double
 	cout << myMax<char>('g', 'e')
