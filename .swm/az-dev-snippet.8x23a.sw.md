@@ -5,6 +5,8 @@ file_version: 1.0.2
 app_version: 0.10.1-2
 file_blobs:
   main.cpp: 02dbe5ca12e02dbb9cb3e36b2d9b4cddf7228a76
+cross_repo_names:
+  azdev-ex: Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy
 ---
 
 <br/>
@@ -33,6 +35,10 @@ file_blobs:
 ⬜ 32       ColoredShape(const std::string& color, Shape* shape)
 ⬜ 33           : color(color), shape(shape) {}
 ```
+
+<br/>
+
+`📄(azdev-ex) dummy.py`
 
 <br/>
 
