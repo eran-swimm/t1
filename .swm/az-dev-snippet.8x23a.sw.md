@@ -5,28 +5,9 @@ file_version: 1.0.2
 app_version: 0.10.1-2
 file_blobs:
   main.cpp: 02dbe5ca12e02dbb9cb3e36b2d9b4cddf7228a76
-cross_repo_file_blobs:
-  Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy:
-    dummy.py: bd427c13f0f0e258423dceed8e4b7a77f95f2fd6
 ---
 
 <br/>
-
-<br/>
-
-# from az-dev
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy:: -->
-### 📄 dummy.py
-```python
-🟩 1      def dummy_func():
-🟩 2        print("This is from dummy")
-🟩 3        
-🟩 4      def foo_func():
-🟩 5        print("this is foo function")
-⬜ 6        
-⬜ 7      
-```
 
 <br/>
 
