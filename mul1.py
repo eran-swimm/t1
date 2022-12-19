@@ -6,7 +6,7 @@ def aaa(x):
     return a * b
 
 
-def mul1(a):
+def Mul1(a):
    print("here")
 
 
