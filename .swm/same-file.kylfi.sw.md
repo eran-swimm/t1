@@ -7,7 +7,7 @@ file_blobs:
   same_name.py: fa843d167675a5b5287b1435990bb3fddbdfa6e5
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
-    same_name.py: a77d87f1bc4986eb7b22a2a046f82ca8d019524d
+    same_name.py: 91a7fae924522e767e415ff21b9d0933df00fe5b
 ---
 
 <br/>
@@ -36,8 +36,8 @@ cross_repo_file_blobs:
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:: -->
 ### 📄 same_name.py
 ```python
-🟩 1      def bar():
-🟩 2      	print("this is bar")
+🟩 1      def foo2():
+🟩 2      	print("this is fooo2")
 ⬜ 3      
 ⬜ 4      
 ⬜ 5      
