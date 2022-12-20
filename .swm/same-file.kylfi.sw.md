@@ -8,6 +8,8 @@ file_blobs:
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
     same_name.py: 91a7fae924522e767e415ff21b9d0933df00fe5b
+  Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==:
+    same_name.py: dd7d1dd2cb34a029acbf87633d3b4d037a7e4fbc
 ---
 
 <br/>
@@ -39,6 +41,24 @@ cross_repo_file_blobs:
 🟩 1      def foo2():
 🟩 2      	print("this is fooo2")
 ⬜ 3      
+⬜ 4      
+⬜ 5      
+```
+
+<br/>
+
+<br/>
+
+<br/>
+
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+<!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==:: -->
+### 📄 same_name.py
+```python
+🟩 1      def bbb():
+🟩 2      	print("this is bbb")
+🟩 3      
 ⬜ 4      
 ⬜ 5      
 ```
