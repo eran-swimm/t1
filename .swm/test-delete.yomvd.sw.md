@@ -1,6 +1,6 @@
 ---
 id: yomvd
-name: aaaa
+name: test delete
 file_version: 1.0.2
 app_version: 0.10.2
 file_blobs:
