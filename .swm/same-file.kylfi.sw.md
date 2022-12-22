@@ -4,7 +4,7 @@ name: same file
 file_version: 1.1.0
 app_version: 0.10.2
 file_blobs:
-  same_name.py: fa843d167675a5b5287b1435990bb3fddbdfa6e5
+  same_name_2.py: fa843d167675a5b5287b1435990bb3fddbdfa6e5
 cross_repo_file_blobs:
   Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=:
     same_name.py: 91a7fae924522e767e415ff21b9d0933df00fe5b
@@ -18,7 +18,7 @@ cross_repo_file_blobs:
 
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 same_name.py
+### 📄 same_name_2.py
 ```python
 🟩 1      def foo():
 🟩 2      	print("this is foo")
