@@ -4,12 +4,26 @@ name: this is new doc
 file_version: 1.1.0
 app_version: 1.0.0
 file_blobs:
+  myfile.py: e0ae48c725759a7a9050dcac574e69a6455836b6
   mul1.py: dad10b8961ff5f2ec2470a71b242ed707a551644
 ---
 
 in the new swmd format
 
 `mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/>is token
+
+`symbol`<swm-token data-swm-token=":myfile.py:1:0:0:`symbol &quot;`"/>is symbol
+
+<br/>
+
+aaa
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 myfile.py
+```python
+🟩 1      symbol "
+```
+
+<br/>
 
 <br/>
 
