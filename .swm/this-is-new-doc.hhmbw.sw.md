@@ -16,6 +16,8 @@ in the new swmd format
 
 `another`<swm-token data-swm-token=":myfile.py:3:0:0:`another /&gt;`"/>
 
+`📄 folder2/main.txt`
+
 <br/>
 
 aaa
