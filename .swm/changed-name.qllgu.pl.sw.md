@@ -1,6 +1,6 @@
 ---
 id: qllgu
-name: playlist example
+name: changed name
 file_version: 1.1.0
 app_version: 1.0.0
 ---
