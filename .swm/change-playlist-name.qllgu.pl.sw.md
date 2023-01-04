@@ -1,6 +1,6 @@
 ---
 id: qllgu
-name: this is new name 22
+name: change playlist name
 file_version: 1.1.0
 app_version: 1.0.1
 ---
