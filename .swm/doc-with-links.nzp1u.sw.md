@@ -7,7 +7,7 @@ cross_repo_names:
   chat-example: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
 ---
 
-`📄 folder2/main.txt` `📄 folder1/folder3.txt/file1.py``📄(chat-example) chat/templates`
+`📄 folder2/main.txt` `📄 folder1/folder3.txt/file1.py``📄(chat-example) chat/templates` `📄(chat-example) chat/templates/chat/room.html`
 
 <br/>
 
