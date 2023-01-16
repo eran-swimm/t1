@@ -4,10 +4,15 @@ title: paths test
 file_version: 1.1.1
 app_version: 1.0.7
 cross_repo_names:
-  ? Unknown
+  webserver1: Z2l0aHViJTNBJTNBd2Vic2VydmVyMSUzQSUzQWVyYW4tc3dpbW0=
+  chat-example: Z2l0aHViJTNBJTNBY2hhdC1leGFtcGxlJTNBJTNBZXJhbnMtc3dpbW0=
 ---
 
-`📄 ex1.cpp` `📄 folder2/main.txt` `📄(Unknown) c.txt` `📄(Unknown) c.txt`
+`📄 ex1.cpp` `📄 folder2/main.txt` `📄(webserver1) utils/firebase-utils.ts` `📄(chat-example) c.txt`
+
+bbbb ccc
+
+<br/>
 
 <br/>
 
