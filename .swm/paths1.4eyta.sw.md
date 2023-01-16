@@ -26,13 +26,9 @@ cross_repo_names:
 
 `📄 folder1/file_no_ext`
 
-# Cross repo path to file
+# Cross repo path to file in one line
 
-`📄(webserver1) main.ts`
-
-`📄(webserver1) README.md`
-
-`📄(webserver1) tsconfig.json`
+`📄(webserver1) main.ts` `📄(webserver1) README.md` `📄(webserver1) tsconfig.json`
 
 `📄(webserver1) package.json`
 
