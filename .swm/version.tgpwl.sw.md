@@ -1,11 +1,25 @@
 ---
 id: tgpwl
-name: version
-file_version: 1.0.3
-app_version: 0.10.1-2
+title: version
+file_version: 1.1.1
+app_version: 1.0.7
 ---
 
 new version
+
+[only symbols](only-symbols.106su.sw.md)
+
+aaa
+
+[only symbols](only-symbols.106su.sw.md)
+
+[only symbols](only-symbols.106su.sw.md)
+
+[only symbols](only-symbols.106su.sw.md)
+
+[only symbols](only-symbols.106su.sw.md)
+
+<br/>
 
 <br/>
 
