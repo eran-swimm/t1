@@ -1,32 +1,148 @@
 ---
 id: tkxwy
-name: with snippet to long file
-file_version: 1.0.2
-app_version: 0.10.1-2
-file_blobs:
-  long_file.txt: beca00d1b61c78ee62dda76b9ae59af0ff65d655
+title: with snippet to long file
+file_version: 1.1.1
+app_version: 1.1.0
 ---
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+# line
+
+<br/>
+
+<br/>
+
+<br/>
 
 link to line 280-289
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 long_file.txt
 ```text
-⬜ 277    line 277
-⬜ 278    line 278
-⬜ 279    line 279
-🟩 280    line 280
-🟩 281    line 281
-🟩 282    line 282
-🟩 283    line 283
-🟩 284    Line 284
-🟩 285    line 285
-🟩 286    line 286
-🟩 287    line 287
-🟩 288    line 288
-🟩 289    line 289
-⬜ 290    line 290
-⬜ 291    line 291
-⬜ 292    line 292
+280    line 280
+281    line 281
+282    line 282
+283    line 283
+284    Line 284
+285    line 285
+286    line 286
+287    line 287
+288    line 288
+289    line 289
 ```
 
 <br/>
