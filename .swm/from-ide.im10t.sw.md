@@ -1,6 +1,6 @@
 ---
 id: im10t
-title: aaa
+title: from ide
 file_version: 1.1.1
 app_version: 0.9.8-0
 ---
@@ -69,13 +69,17 @@ class Zebra{
 
 <br/>
 
+<br/>
+
+<br/>
+
 [<--VIDEO-->](https://www.youtube.com/watch?v=VqCgcpAypFQ)
 
 <br/>
 
 ```
 def foo():
-    print("hello")    
+    print("hello")
 ```
 
 <br/>
