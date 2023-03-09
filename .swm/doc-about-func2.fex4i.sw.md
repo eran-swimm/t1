@@ -107,6 +107,7 @@ new snippet
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 to_be_renamed3.txt
 ```text
+8      11
 9      dd
 10     ee
 11     ff
