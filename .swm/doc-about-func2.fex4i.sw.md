@@ -89,12 +89,28 @@ this is file 1
 
 <br/>
 
+<br/>
+
+<br/>
+
 this is file2
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 new_file2.py
 ```python
 1      def func2():
 2      	print("This is func1")
+```
+
+<br/>
+
+new snippet
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 to_be_renamed3.txt
+```text
+9      dd
+10     ee
+11     ff
+12     gg
 ```
 
 <br/>
