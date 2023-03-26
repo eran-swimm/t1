@@ -1,7 +1,7 @@
 ---
 id: 0xdlb
-name: hello
-file_version: 1.0.2
+title: hello
+file_version: 1.1.2
 app_version: 0.9.7-0
 ---
 
@@ -15,8 +15,37 @@ dddd
 
 eee
 
+<br/>
 
+aaaa
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 ../jenkins/test/src/test/java/hudson/bugs/DateConversionTest.java
+```java
+42     public class DateConversionTest {
+43         /**
+44          * Put it under a high-concurrency to make sure nothing bad happens.
+45          */
+46         @Test
+47         public void test() throws Exception {
+48             final DateConverter dc = new DateConverter();
+49             ExecutorService es = Executors.newFixedThreadPool(10);
+50     
+51             List<Future> futures = new ArrayList<>();
+52             for (int i = 0; i < 10; i++) {
+53                 futures.add(es.submit(new Callable<>() {
+54                     @Override
+55                     public Object call() {
+56                         for (int i = 0; i < 10000; i++)
+57                             dc.fromString("2008-08-26 15:40:14.568 GMT-03:00");
+58                         return null;
+59                     }
+60                 }));
+61             }
+```
 
+<br/>
+
+<br/>
 
 <br/>
 
