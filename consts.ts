@@ -1,10 +1,9 @@
 // const files
 
 export enum SelectionType {
-  none = 'none',
-  full = 'full',
-  red = 'red',
-  blue = 'blue',
+    aaa = 'aaa',
+    bbb = 'bbb',
+    ccc = 'ccc',
 }
 
 // this was the consts
