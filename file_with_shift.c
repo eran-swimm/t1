@@ -1,8 +1,8 @@
 int main() {
     int a = 3;
     int b = 5;
-    int c = a | b;
-    int d = foo() || bar();
+    int abitorb = a | b;
+    int fooorbar = foo() || bar();
 }
 
 int foo() {
