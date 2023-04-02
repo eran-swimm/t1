@@ -11,7 +11,7 @@ this will have cross repo doc
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [doc about fibo](/repos/1Z2l0aHViJTNBJTNBdG8tYmUtcmVtb3ZlZC0xJTNBJTNBZXJhbi1zd2ltbQ==/docs/pqzle)
+1. [doc about fibo](/repos/Z2l0aHViJTNBJTNBdG8tYmUtcmVtb3ZlZC0xJTNBJTNBZXJhbi1zd2ltbQ==/docs/pqzle)
 
 
 <br/>
