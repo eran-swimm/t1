@@ -1,6 +1,6 @@
 ---
 id: mcjuj
-title: a draft playlist
+title: title
 file_version: 1.1.2
 app_version: 1.5.0
 ---
@@ -11,7 +11,7 @@ this is a draft playlist
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [to be deleted](to-be-deleted.8vbkx.sw.md)
+1. [doc 1111](doc-1111.0q7zd.sw.md)
 
 
 <br/>
