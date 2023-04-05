@@ -11,8 +11,7 @@ this will have cross repo doc
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [doc about fibo](http://localhost:5000/repos/Z2l0aHViJTNBJTNBdG8tYmUtcmVtb3ZlZC0xJTNBJTNBZXJhbi1zd2ltbQ==/docs/pqzle)
-2. [doc from az dev 1](http://localhost:5000/repos/Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy/docs/j4s4z)
+1. [new blank doc](new-blank-doc.jq28r.sw.md)
 
 
 <br/>
