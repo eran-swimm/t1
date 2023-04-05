@@ -12,6 +12,7 @@ this will have cross repo doc
 
 <!-- Steps - Do not remove this comment -->
 1. [new blank doc](new-blank-doc.jq28r.sw.md)
+2. [doc from az dev 1](http://localhost:5000/repos/Z2l0aHViJTNBJTNBYXpkZXYtZXglM0ElM0Fla2V5ZGFy/docs/j4s4z)
 
 
 <br/>
