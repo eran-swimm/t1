@@ -6,5 +6,5 @@ def mul1(a, b):
     return a * b
 
 
-def newToken():
+def newtoken():
     pass
