@@ -1,6 +1,6 @@
 ---
 id: qgb9u
-title: doc
+title: doc with mermaid
 file_version: 1.1.2
 app_version: 1.6.3
 ---
