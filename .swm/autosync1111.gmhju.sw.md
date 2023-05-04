@@ -53,7 +53,7 @@ dddd
 
 <br/>
 
-`mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/> `newToken`<swm-token data-swm-token=":mul1.py:9:2:2:`def newToken():`"/> `mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/>
+`mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/> `mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/>
 
 <br/>
 
