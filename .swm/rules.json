@@ -1,0 +1,20 @@
+{
+    "rules": {
+        "350b96b6-ad00-49fb-88ba-b8cd26d56297": {
+            "name": "rule1",
+            "rule": {
+                "type": "regex",
+                "regex": "cout"
+            },
+            "actions": {
+                "ide": {
+                    "doc_id": "3gjyf",
+                    "message": "rrr"
+                }
+            }
+        }
+    },
+    "view_order": [
+        "350b96b6-ad00-49fb-88ba-b8cd26d56297"
+    ]
+}
