@@ -7,7 +7,11 @@ app_version: 1.13.10
 
 aaaa
 
-[[sym-mention:(7762d0b0-daca-4cbc-8668-e17581e9e105|ZMqaiF)Tal <name></name>]]
+\[\[sym-mention:(7762d0b0-daca-4cbc-8668-e17581e9e105|ZMqaiF)Tal <name></name>\]\]
+
+[new doc](new-doc.3d5xa.sw.md)
+
+<br/>
 
 ```bash
 aaa
@@ -56,6 +60,8 @@ dddd
 <br/>
 
 `mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/> `mul1`<swm-token data-swm-token=":mul1.py:4:2:2:`def mul1(a, b):`"/>
+
+[ccc <h1>aaa</h1>](ccc-h1aaah1.n6z4n.sw.md)
 
 <br/>
 
