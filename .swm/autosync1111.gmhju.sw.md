@@ -1,11 +1,13 @@
 ---
 id: gmhju
 title: autosync1111
-file_version: 1.1.2
-app_version: 1.6.3
+file_version: 1.1.3
+app_version: 1.13.10
 ---
 
 aaaa
+
+[[sym-mention:(7762d0b0-daca-4cbc-8668-e17581e9e105|ZMqaiF)Tal <name></name>]]
 
 ```bash
 aaa
