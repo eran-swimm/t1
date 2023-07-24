@@ -1,8 +1,8 @@
 ---
 id: op9rp
-name: mentions
-file_version: 1.0.2
-app_version: 0.9.8-0
+title: mentions
+file_version: 1.1.3
+app_version: 1.13.10
 ---
 
 <name>
@@ -13,8 +13,7 @@ app_version: 0.9.8-0
 
 this is my <name> and this is <me></me>
 
-
-
+[[sym-mention:(6ac1cc39-072c-4690-b933-d266934b6adc|ZMqaiF)Tal <name></name>]] [[sym-mention:(bf989343-4af0-429e-92fa-68e699a4bf81|Z27cdqh)Holly]]
 
 <br/>
 
