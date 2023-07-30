@@ -17,6 +17,8 @@ this is an example playlist
 <!-- Steps - Do not remove this comment -->
 1. [doc 1111](doc-1111.0q7zd.sw.md)
 2. [with java](with-java.0xdlb.sw.md)
+3. [tiger pic](./with-tiger.md)
+4. [pic](./file-with-pic.md)
 
 
 <br/>
