@@ -14,14 +14,9 @@ this is an example playlist
 
 <br/>
 
-<br/>
-
 <!-- Steps - Do not remove this comment -->
 1. [doc 1111](doc-1111.0q7zd.sw.md)
 2. [with java](with-java.0xdlb.sw.md)
-3. [p1111](p1111.beeaa.pl.sw.md)
-4. [Link for youtube](https://www.youtube.com/watch?v=fDB-dPbi4vc)
-5. [markdown of tiger](./with-tiger.md)
 
 
 <br/>
