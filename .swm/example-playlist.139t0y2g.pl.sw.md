@@ -19,6 +19,8 @@ this is an example playlist
 2. [with java](with-java.0xdlb.sw.md)
 3. [tiger pic](./with-tiger.md)
 4. [pic](./file-with-pic.md)
+5. [youtube of swimm](https://www.youtube.com/watch?v=fDB-dPbi4vc)
+6. [aaaa](https://swimm-web-app.web.app/repos/Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==/docs/9ly7p)
 
 
 <br/>
