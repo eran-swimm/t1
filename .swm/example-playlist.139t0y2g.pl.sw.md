@@ -15,12 +15,11 @@ this is an example playlist
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [doc 1111](doc-1111.0q7zd.sw.md)
-2. [with java](with-java.0xdlb.sw.md)
-3. [tiger pic](./with-tiger.md)
-4. [pic](./file-with-pic.md)
-5. [youtube of swimm](https://www.youtube.com/watch?v=fDB-dPbi4vc)
-6. [aaaa](https://swimm-web-app.web.app/repos/Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==/docs/9ly7p)
+1. [Simple Doc 1](simple-doc-1.e6uflifs.sw.md)
+2. [tiger pic](./with-tiger.md)
+3. [pic](./file-with-pic.md)
+4. [youtube of swimm](https://www.youtube.com/watch?v=fDB-dPbi4vc)
+5. [aaaa](https://swimm-web-app.web.app/repos/Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==/docs/9ly7p)
 
 
 <br/>
