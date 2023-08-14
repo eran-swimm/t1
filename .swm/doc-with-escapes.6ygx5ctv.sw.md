@@ -5,7 +5,7 @@ file_version: 1.1.3
 app_version: 1.15.0
 ---
 
-this is doc with  <
+this is doc with  < &lt; &gt; &nbsp;
 
 ```
 &lt; &gt;
