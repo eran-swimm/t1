@@ -29,14 +29,12 @@ app_version: 1.15.0
 
 `📄 demo.rb`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 a.py
-```python
-1      aaa
-2      bbb
-3      xxx
-4      vvv
-5      eee
-6      fff$
+### 📄 ns2.rb
+```ruby
+10     		# Class GooksforGooks constructor
+11     		def initialize(value)
+12     			@gfg = value
+13     		end
 ```
 
 <br/>
