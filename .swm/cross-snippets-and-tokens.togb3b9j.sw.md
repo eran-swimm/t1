@@ -1,7 +1,7 @@
 ---
 title: Cross snippets and tokens
 ---
-# SAME 1
+# SAME 12
 
 <SwmSnippet path="/a.sql" line="1">
 
