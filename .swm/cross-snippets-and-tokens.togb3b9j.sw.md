@@ -24,6 +24,8 @@ same
 
 `📄 folder2/main.txt`
 
+[with java](with-java.0xdlb.sw.md)
+
 # CROSS
 
 <br/>
@@ -46,7 +48,7 @@ cross from webserver 1
 
 `📄(webserver1) main.ts`
 
-<br/>
+[webserver1/t1 tokens ](https://swimm-web-app.web.app/repos/Z2l0aHViJTNBJTNBd2Vic2VydmVyMSUzQSUzQWVyYW4tc3dpbW0=/docs/bs0of)
 
 <br/>
 
