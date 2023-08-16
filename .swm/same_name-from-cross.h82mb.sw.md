@@ -1,11 +1,8 @@
 ---
 id: h82mb
-name: same_name from cross
-file_version: 1.1.0
-app_version: 0.11.1
-cross_repo_file_blobs:
-  Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==:
-    same_name.py: 35a4d97ef179d2b9531965d5704338cadac63c64
+title: same_name from cross
+file_version: 1.1.3
+app_version: 1.15.0
 ---
 
 <br/>
@@ -17,8 +14,8 @@ this is from other respo
 <!-- NOTE-swimm-repo ::Z2l0aHViJTNBJTNBZGVtbzEtbWQxJTNBJTNBZXJhbi1zd2ltbQ==:: -->
 ### 📄 same_name.py
 ```python
-🟩 1      def bbb():
-🟩 2      	print("this is bbbd")
+1      def foo():
+2      	print("this is foo")
 ```
 
 <br/>
