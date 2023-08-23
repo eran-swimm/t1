@@ -11,33 +11,16 @@ app_version: 1.15.3
 
 <br/>
 
-<br/>
-
 <!--MERMAID {width:100}-->
 ```mermaid
 classDiagram
-Animal <|-- Duck
-Animal <|-- Fish
-Animal <|-- Zebra
-Animal : +int age
-Animal : +String gender
-Animal: +aaa
-Animal: +mate()
 class Duck{
 +String beakColor
-+swim()
-+quack()
-}
-class Fish{
-\-int sizeInFeet
-\-canEat()
-}
-class Zebra{
-+bool is\_wild
-+run()
+\-swim()
++is\_wild()
 }
 ```
-<!--MCONTENT {content: "classDiagram<br/>\nAnimal <|-- Duck<br/>\nAnimal <|-- Fish<br/>\nAnimal <|-- Zebra<br/>\nAnimal : +int age<br/>\nAnimal : +String gender<br/>\nAnimal: +aaa<br/>\nAnimal: +mate()<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n+swim()<br/>\n+quack()<br/>\n}<br/>\nclass Fish{<br/>\n\\-int sizeInFeet<br/>\n\\-canEat()<br/>\n}<br/>\nclass Zebra{<br/>\n+bool is\\_wild<br/>\n+run()<br/>\n}<br/>"} --->
+<!--MCONTENT {content: "classDiagram<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n\\-swim()<br/>\n+is\\_wild()<br/>\n}<br/>"} --->
 
 <br/>
 
