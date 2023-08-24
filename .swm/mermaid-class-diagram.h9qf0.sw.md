@@ -2,7 +2,7 @@
 id: h9qf0
 title: mermaid class diagram
 file_version: 1.1.3
-app_version: 1.15.3
+app_version: 1.16.0
 ---
 
 <br/>
@@ -15,12 +15,14 @@ app_version: 1.15.3
 ```mermaid
 classDiagram
 class Duck{
-+String beakColor
++String `bar`()
+
++String `mul1`()
 \-swim()
 +is\_wild()
 }
 ```
-<!--MCONTENT {content: "classDiagram<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n\\-swim()<br/>\n+is\\_wild()<br/>\n}<br/>"} --->
+<!--MCONTENT {content: "classDiagram<br/>\nclass Duck{<br/>\n+String `bar`<swm-token data-swm-token=\":file_with_shift.c:12:2:2:`int bar() {`\"/>()\n\n+String `mul1`<swm-token data-swm-token=\":mul1.py:4:2:2:`def mul1(a, b):`\"/>()<br/>\n\\-swim()<br/>\n+is\\_wild()<br/>\n}<br/>"} --->
 
 <br/>
 
