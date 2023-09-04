@@ -47,8 +47,11 @@ this is a comment
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 consts.ts
 ```typescript
-9      // this was the consts
-10     
+3      export enum SelectionType {
+4          aaa = 'aaa',
+5          bbb = 'bbb',
+6          ccc = 'ccc',
+7      }
 ```
 
 <br/>
