@@ -2,7 +2,7 @@
 
 export enum SelectionType {
     aaa = 'aaa',
-    bbb = 'bbb',
+    Bbb = 'bbb',
     ccc = 'ccc',
 }
 
