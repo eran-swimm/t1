@@ -1,3 +1,3 @@
-SELECT * FROM EmployeeDetails WHERE empid <> 1
+SELECT * FROM employeeDetails WHERE empid <> 1
 
 
