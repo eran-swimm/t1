@@ -2,8 +2,7 @@
 
 export enum SelectionType {
     aaa = 'aaa',
-    bbb = 'bbb',
-    ccc = 'ccc',
+    Bbb = 'bbb',
 }
 
 // this was the consts
