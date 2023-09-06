@@ -1,7 +1,7 @@
 ---
 title: with ruby
 ---
-<SwmSnippet path="/demo.rb" line="1">
+<SwmSnippet path="/demo.rb" line="1" collapsed>
 
 ---
 
