@@ -1,8 +1,8 @@
 ---
 id: 0q7zd
-title: doc 1111
+title: doc with name on main
 file_version: 1.1.3
-app_version: 1.14.0
+app_version: 1.18.0
 ---
 
 ## head2
@@ -26,7 +26,6 @@ head 333
 [change playlist name](change-playlist-name.qllgu.pl.sw.md)
 
 <br/>
-
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 snip1.py
