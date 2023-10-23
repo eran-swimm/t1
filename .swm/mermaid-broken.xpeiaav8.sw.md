@@ -19,8 +19,7 @@ class Duck{
 +String beakColor
 +swim()
 +quack()
-
-+`GetName`()
+`GeeksforGeeks`
 }
 class Fish{
 \-int sizeInFeet
@@ -31,9 +30,8 @@ class Zebra{
 +run()
 }
 
-
 ```
-<!--MCONTENT {content: "classDiagram<br/>\nAnimal <|-- Duck<br/>\nAnimal <|-- Fish<br/>\nAnimal <|-- Zebra<br/>\nAnimal : +int age<br/>\nAnimal : +String gender<br/>\nAnimal: +isMammal()<br/>\nAnimal: +mate()<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n+swim()<br/>\n+quack()\n\n+`GetName`<swm-token data-swm-token=\":main.cpp:36:5:5:`    return shape-&gt;GetName() + &quot; which is colored &quot; + color;`\"/>()<br/>\n}<br/>\nclass Fish{<br/>\n\\-int sizeInFeet<br/>\n\\-canEat()<br/>\n}<br/>\nclass Zebra{<br/>\n+bool is\\_wild<br/>\n+run()<br/>\n}<br/>\n\n<br/>"} --->
+<!--MCONTENT {content: "classDiagram<br/>\nAnimal <|-- Duck<br/>\nAnimal <|-- Fish<br/>\nAnimal <|-- Zebra<br/>\nAnimal : +int age<br/>\nAnimal : +String gender<br/>\nAnimal: +isMammal()<br/>\nAnimal: +mate()<br/>\nclass Duck{<br/>\n+String beakColor<br/>\n+swim()<br/>\n+quack()<br/>\n`GeeksforGeeks`<swm-token data-swm-token=\":ns1.rb:5:3:3:`\tclass GeeksforGeeks`\"/><br/>\n}<br/>\nclass Fish{<br/>\n\\-int sizeInFeet<br/>\n\\-canEat()<br/>\n}<br/>\nclass Zebra{<br/>\n+bool is\\_wild<br/>\n+run()<br/>\n}<br/>\n<br/>"} --->
 
 <br/>
 
