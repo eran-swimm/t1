@@ -33,7 +33,7 @@ struct ColoredShape : Shape {
       : color(color), shape(shape) {}
 
   std::string GetName() const override {
-    return shape->GetName() + " which is colored " + color;
+    return shape->GetNNName() + " which is colored " + color;
   }
 
   std::string color;
