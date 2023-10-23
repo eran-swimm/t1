@@ -2,7 +2,7 @@
 
 # Defining a namespace called Geek
 module Geek
-	class GeeksforGeeks
+	class BeeksforGeeks
 		
 	# The variable gfg
 		attr_reader :gfg
