@@ -7,19 +7,7 @@ app_version: 1.18.29
 
 added one line of text
 
-<br/>
-
-<br/>
-
-<div align="center"><img src="images/0dd116b0-650f-4fa7-ad38-02d72ded1f80.jpeg" style="width:'50%'"/></div>
-
-<br/>
-
-<div align="center"><img src="images/cd897296-8265-4219-9564-631696a81e80.jpeg" style="width:'50%'"/></div>
-
-<br/>
-
-<div align="center"><img src="images/7be0ac9e-e942-4aae-b3e2-0c5abfc4d064.jpeg" style="width:'50%'"/></div>
+deleted all images
 
 <br/>
 
